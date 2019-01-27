@@ -1,4 +1,4 @@
-package nl.sander758.introduction.quacking;
+package nl.sander758.strategy.quacking;
 
 public interface QuackBehavior {
 

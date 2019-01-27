@@ -1,6 +1,6 @@
-package nl.sander758.introduction.ducks;
+package nl.sander758.strategy.ducks;
 
-import nl.sander758.introduction.quacking.QuackBehavior;
+import nl.sander758.strategy.quacking.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior {
     @Override

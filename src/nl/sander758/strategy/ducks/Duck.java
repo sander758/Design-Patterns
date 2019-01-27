@@ -1,7 +1,7 @@
-package nl.sander758.introduction.ducks;
+package nl.sander758.strategy.ducks;
 
-import nl.sander758.introduction.flying.FlyBehavior;
-import nl.sander758.introduction.quacking.QuackBehavior;
+import nl.sander758.strategy.flying.FlyBehavior;
+import nl.sander758.strategy.quacking.QuackBehavior;
 
 public abstract class Duck {
 

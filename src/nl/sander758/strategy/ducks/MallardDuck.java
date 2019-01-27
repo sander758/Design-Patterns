@@ -1,7 +1,7 @@
-package nl.sander758.introduction.ducks;
+package nl.sander758.strategy.ducks;
 
-import nl.sander758.introduction.flying.FlyWithWings;
-import nl.sander758.introduction.quacking.Quack;
+import nl.sander758.strategy.flying.FlyWithWings;
+import nl.sander758.strategy.quacking.Quack;
 
 public class MallardDuck extends Duck {
 

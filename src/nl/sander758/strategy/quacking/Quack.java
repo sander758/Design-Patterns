@@ -1,4 +1,4 @@
-package nl.sander758.introduction.quacking;
+package nl.sander758.strategy.quacking;
 
 public class Quack implements QuackBehavior {
     @Override

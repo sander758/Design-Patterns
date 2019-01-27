@@ -1,4 +1,4 @@
-package nl.sander758.introduction.flying;
+package nl.sander758.strategy.flying;
 
 public class FlyWithWings implements FlyBehavior {
     @Override
