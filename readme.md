@@ -11,10 +11,11 @@ https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfir
 
 ### 1. Strategy Pattern
 **When:** When you want to define a class that will have one behaviour that is similar to other behaviors in a list.  
-Link: https://www.youtube.com/watch?v=-NCgRD9-C6o&index=3&list=PLF206E906175C7E07
+Link: https://www.youtube.com/watch?v=-NCgRD9-C6o&list=PLF206E906175C7E07&index=3
 
 ### 2. Observer
-
+**When:** When you need many other objects to receive an update when another object changes.
+Link: https://www.youtube.com/watch?v=wiQdrH2YpT4&list=PLF206E906175C7E07&index=4
 
 ### 25. MVC
 **What:* Completely separates the calculations and interface from each other
