@@ -9,14 +9,26 @@ https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfir
 
 ## Patterns
 
-### 1. Strategy Pattern
+### 1. Strategy
 **When:** When you want to define a class that will have one behaviour that is similar to other behaviors in a list.  
 Link: https://www.youtube.com/watch?v=-NCgRD9-C6o&list=PLF206E906175C7E07&index=3
 
 ### 2. Observer
-**When:** When you need many other objects to receive an update when another object changes.
+**When:** When you need many other objects to receive an update when another object changes.  
 Link: https://www.youtube.com/watch?v=wiQdrH2YpT4&list=PLF206E906175C7E07&index=4
 
+### 3. Factory
+**When:** When a method returns one of several possible classes that share a common superclass.  
+- When you don't know ahead of time what class object you need.
+- When all of the potential classes are in the same subclass hierarchy.
+- To centralize class selection code.
+- When you don't want the user to have to know every subclass.
+
+Link: https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=5
+
 ### 25. MVC
-**What:* Completely separates the calculations and interface from each other
+**What:** Completely separates the calculations and interface from each other.  
+Model: Data and Methods used to work with it.  
+View: The interface (GUI).  
+Controller: Coordinates interactions between the View and Model.  
 Link: https://www.youtube.com/watch?v=dTVVa2gfht8&list=PLF206E906175C7E07&index=28
