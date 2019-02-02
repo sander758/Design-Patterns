@@ -14,3 +14,8 @@ https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfir
 Link: https://www.youtube.com/watch?v=-NCgRD9-C6o&index=3&list=PLF206E906175C7E07
 
 ### 2. Observer
+
+
+### 25. MVC
+**What:* Completely separates the calculations and interface from each other
+Link: https://www.youtube.com/watch?v=dTVVa2gfht8&list=PLF206E906175C7E07&index=28
