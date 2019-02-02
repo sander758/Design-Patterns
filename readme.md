@@ -26,6 +26,15 @@ Link: https://www.youtube.com/watch?v=wiQdrH2YpT4&list=PLF206E906175C7E07&index=
 
 Link: https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=5
 
+### 4. Abstract Factory
+**What:** It is like a factory, but everything is encapsulated.  
+- Allows you to create families of related objects without specifying a concrete class.
+- Use when you have many objects that can be added, or changed dynamically during runtime.
+- You can model anything you can imagine and have those objects interact through common interfaces.
+
+The bad: Things can get complicated.  
+Link: https://www.youtube.com/watch?v=xbjAsdAK4xQ&list=PLF206E906175C7E07&index=6
+
 ### 25. MVC
 **What:** Completely separates the calculations and interface from each other.  
 Model: Data and Methods used to work with it.  
