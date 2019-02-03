@@ -12,12 +12,12 @@ https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfir
 ### 1. Strategy
 **Category:** Behavioral  
 **When:** When you want to define a class that will have one behaviour that is similar to other behaviors in a list.  
-Link: https://www.youtube.com/watch?v=-NCgRD9-C6o&list=PLF206E906175C7E07&index=3
+Link: https://www.youtube.com/watch?v=-NCgRD9-C6o&list=PLF206E906175C7E07
 
 ### 2. Observer
 **Category:** Behavioral  
 **When:** When you need many other objects to receive an update when another object changes.  
-Link: https://www.youtube.com/watch?v=wiQdrH2YpT4&list=PLF206E906175C7E07&index=4
+Link: https://www.youtube.com/watch?v=wiQdrH2YpT4&list=PLF206E906175C7E07
 
 ### 3. Factory
 **Category:** Creational  
@@ -27,7 +27,7 @@ Link: https://www.youtube.com/watch?v=wiQdrH2YpT4&list=PLF206E906175C7E07&index=
 - To centralize class selection code.
 - When you don't want the user to have to know every subclass.
 
-Link: https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=5
+Link: https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07
 
 ### 4. Abstract Factory
 **Category:** Creational  
@@ -37,12 +37,12 @@ Link: https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=
 - You can model anything you can imagine and have those objects interact through common interfaces.
 
 The bad: Things can get complicated.  
-Link: https://www.youtube.com/watch?v=xbjAsdAK4xQ&list=PLF206E906175C7E07&index=6
+Link: https://www.youtube.com/watch?v=xbjAsdAK4xQ&list=PLF206E906175C7E07
 
 ### 5. Singleton
 **Category:** Creational  
 **What:** It is used when you want to eliminate the option of instantiating more than one object.  
-Link: https://www.youtube.com/watch?v=NZaXM67fxbs&list=PLF206E906175C7E07&index=7
+Link: https://www.youtube.com/watch?v=NZaXM67fxbs&list=PLF206E906175C7E07
 
 ### 6. Builder
 **Category:** Creational  
@@ -52,16 +52,22 @@ Link: https://www.youtube.com/watch?v=NZaXM67fxbs&list=PLF206E906175C7E07&index=
 - Hide the creation of the parts from the client so both aren't dependent.
 - The builder knows the specifics and nobody else does.  
 
-Link: https://www.youtube.com/watch?v=AFbZhRL0Uz8&list=PLF206E906175C7E07&index=8
+Link: https://www.youtube.com/watch?v=AFbZhRL0Uz8&list=PLF206E906175C7E07
 
 ### 7. Prototype
 **Category:** Creational  
 **What:** Creating new objects (instances) by cloning (copying) other objects.  
-Link: https://www.youtube.com/watch?v=AFbZhRL0Uz8&list=PLF206E906175C7E07&index=10
+Link: https://www.youtube.com/watch?v=AFbZhRL0Uz8&list=PLF206E906175C7E07
+
+### 8. Decorator
+**Category:** Structural
+**What:** Allows you to modify an object dynamically.  
+Link: https://www.youtube.com/watch?v=j40kRwSm4VE&list=PLF206E906175C7E07
+
 
 ### 25. MVC
 **What:** Completely separates the calculations and interface from each other.  
 Model: Data and Methods used to work with it.  
 View: The interface (GUI).  
 Controller: Coordinates interactions between the View and Model.  
-Link: https://www.youtube.com/watch?v=dTVVa2gfht8&list=PLF206E906175C7E07&index=28
+Link: https://www.youtube.com/watch?v=dTVVa2gfht8&list=PLF206E906175C7E07
