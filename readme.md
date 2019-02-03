@@ -35,6 +35,10 @@ Link: https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=
 The bad: Things can get complicated.  
 Link: https://www.youtube.com/watch?v=xbjAsdAK4xQ&list=PLF206E906175C7E07&index=6
 
+### 5. Singleton
+**What:** It is used when you want to eliminate the option of instantiating more than one object.  
+Link: https://www.youtube.com/watch?v=NZaXM67fxbs&list=PLF206E906175C7E07&index=7
+
 ### 25. MVC
 **What:** Completely separates the calculations and interface from each other.  
 Model: Data and Methods used to work with it.  
