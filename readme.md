@@ -39,6 +39,13 @@ Link: https://www.youtube.com/watch?v=xbjAsdAK4xQ&list=PLF206E906175C7E07&index=
 **What:** It is used when you want to eliminate the option of instantiating more than one object.  
 Link: https://www.youtube.com/watch?v=NZaXM67fxbs&list=PLF206E906175C7E07&index=7
 
+### 6. Builder
+**What:** Pattern used to create objects made from a bunch of other objects.
+- When you want to build an object made up from other objects.
+- When you want the creation of these parts to be independent of the main object.
+- Hide the creation of the parts from the client so both aren't dependent.
+- The builder knows the specifics and nobody else does.
+
 ### 25. MVC
 **What:** Completely separates the calculations and interface from each other.  
 Model: Data and Methods used to work with it.  
