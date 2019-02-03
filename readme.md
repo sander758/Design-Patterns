@@ -10,14 +10,17 @@ https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfir
 ## Patterns
 
 ### 1. Strategy
+**Category:** Behavioral  
 **When:** When you want to define a class that will have one behaviour that is similar to other behaviors in a list.  
 Link: https://www.youtube.com/watch?v=-NCgRD9-C6o&list=PLF206E906175C7E07&index=3
 
 ### 2. Observer
+**Category:** Behavioral  
 **When:** When you need many other objects to receive an update when another object changes.  
 Link: https://www.youtube.com/watch?v=wiQdrH2YpT4&list=PLF206E906175C7E07&index=4
 
 ### 3. Factory
+**Category:** Creational  
 **When:** When a method returns one of several possible classes that share a common superclass.  
 - When you don't know ahead of time what class object you need.
 - When all of the potential classes are in the same subclass hierarchy.
@@ -27,6 +30,7 @@ Link: https://www.youtube.com/watch?v=wiQdrH2YpT4&list=PLF206E906175C7E07&index=
 Link: https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=5
 
 ### 4. Abstract Factory
+**Category:** Creational  
 **What:** It is like a factory, but everything is encapsulated.  
 - Allows you to create families of related objects without specifying a concrete class.
 - Use when you have many objects that can be added, or changed dynamically during runtime.
@@ -36,15 +40,24 @@ The bad: Things can get complicated.
 Link: https://www.youtube.com/watch?v=xbjAsdAK4xQ&list=PLF206E906175C7E07&index=6
 
 ### 5. Singleton
+**Category:** Creational  
 **What:** It is used when you want to eliminate the option of instantiating more than one object.  
 Link: https://www.youtube.com/watch?v=NZaXM67fxbs&list=PLF206E906175C7E07&index=7
 
 ### 6. Builder
+**Category:** Creational  
 **What:** Pattern used to create objects made from a bunch of other objects.
 - When you want to build an object made up from other objects.
 - When you want the creation of these parts to be independent of the main object.
 - Hide the creation of the parts from the client so both aren't dependent.
-- The builder knows the specifics and nobody else does.
+- The builder knows the specifics and nobody else does.  
+
+Link: https://www.youtube.com/watch?v=AFbZhRL0Uz8&list=PLF206E906175C7E07&index=8
+
+### 7. Prototype
+**Category:** Creational  
+**What:** Creating new objects (instances) by cloning (copying) other objects.  
+Link: https://www.youtube.com/watch?v=AFbZhRL0Uz8&list=PLF206E906175C7E07&index=10
 
 ### 25. MVC
 **What:** Completely separates the calculations and interface from each other.  
