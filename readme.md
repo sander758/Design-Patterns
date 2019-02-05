@@ -60,9 +60,16 @@ Link: https://www.youtube.com/watch?v=AFbZhRL0Uz8&list=PLF206E906175C7E07
 Link: https://www.youtube.com/watch?v=AFbZhRL0Uz8&list=PLF206E906175C7E07
 
 ### 8. Decorator
-**Category:** Structural
+**Category:** Structural  
 **What:** Allows you to modify an object dynamically.  
 Link: https://www.youtube.com/watch?v=j40kRwSm4VE&list=PLF206E906175C7E07
+
+
+### 11. Facade
+**Category:** Structural  
+**What:** When you create a simplified interface that performs many other actions behind the scenes.  
+Link: https://www.youtube.com/watch?v=B1Y8fcYrz5o&list=PLF206E906175C7E07
+
 
 
 ### 25. MVC
