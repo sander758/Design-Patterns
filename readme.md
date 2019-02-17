@@ -79,9 +79,34 @@ Link: https://www.youtube.com/watch?v=qG286LQM6BU&list=PLF206E906175C7E07
 **What:** When you create a simplified interface that performs many other actions behind the scenes.  
 Link: https://www.youtube.com/watch?v=B1Y8fcYrz5o&list=PLF206E906175C7E07
 
+### 12. Bridge
 
+### 13. Template Method
 
-### 25. MVC
+### 14. Iterator
+
+### 15. Composite
+
+### 16. Flyweight
+
+### 17. State
+
+### 18. Proxy
+
+### 19. Chain of Responsibility
+**Category:** Behavioral  
+**What:** This pattern sends data to an object and if that object can't use it, it sends it to any number of other objects that may be able to use it.  
+Link: https://www.youtube.com/watch?v=jDX6x8qmjbA&list=PLF206E906175C7E07
+
+### 20. Interpreter
+
+### 21. Mediator
+
+### 22. Memento
+
+### 23. Visitor
+
+### 24. MVC
 **What:** Completely separates the calculations and interface from each other.  
 Model: Data and Methods used to work with it.  
 View: The interface (GUI).  
