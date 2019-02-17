@@ -64,6 +64,12 @@ Link: https://www.youtube.com/watch?v=AFbZhRL0Uz8&list=PLF206E906175C7E07
 **What:** Allows you to modify an object dynamically.  
 Link: https://www.youtube.com/watch?v=j40kRwSm4VE&list=PLF206E906175C7E07
 
+### 9. Command
+**Category:** Behavioral  
+**What:** The command pattern is a behavioural design pattern in which an object is used to represent and encapsulate all the information needed to call a method at a later time.  
+Link: https://www.youtube.com/watch?v=7Pj5kAhVBlg&list=PLF206E906175C7E07
+
+### 10. Adapter
 
 ### 11. Facade
 **Category:** Structural  
