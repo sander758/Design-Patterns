@@ -70,6 +70,9 @@ Link: https://www.youtube.com/watch?v=j40kRwSm4VE&list=PLF206E906175C7E07
 Link: https://www.youtube.com/watch?v=7Pj5kAhVBlg&list=PLF206E906175C7E07
 
 ### 10. Adapter
+**Category:** Structural  
+**What:** Allows 2 incompatible interfaces to work together.  
+Link: https://www.youtube.com/watch?v=qG286LQM6BU&list=PLF206E906175C7E07
 
 ### 11. Facade
 **Category:** Structural  
